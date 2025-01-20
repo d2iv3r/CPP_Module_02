@@ -1,4 +1,4 @@
-# C++ Module: Ad-hoc Polymorphism, Operator Overloading, and Orthodox Canonical Class Form
+# C++ Module 02:
 
 ## Overview
 
